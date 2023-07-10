@@ -1,4 +1,4 @@
-Hi, I am a software enthousiast with a 
+Hi, I am a Umut, a software developer with an Msc. Degree from Carnegie Mellon University. 
 
 Check out my some of my work:
 
