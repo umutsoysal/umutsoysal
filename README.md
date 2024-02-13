@@ -1,4 +1,4 @@
-Hi, I am a Umut, a software developer with an Msc. Degree from Carnegie Mellon University. 
+Hi, I am a Umut, a software developer with an Msc. Degree in Mechanical Engineering  from Carnegie Mellon University. 
 
 Passionate in quick prototyping and developing web apps. 
 
