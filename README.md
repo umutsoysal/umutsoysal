@@ -17,4 +17,3 @@ Passionate in quick prototyping and developing web apps.
 
 <img width="1556" alt="image" src="https://github.com/umutsoysal/umutsoysal/assets/10604284/fc9c5088-d8f5-48a2-8b89-b942349f75f2">
 
-![Umut's GitHub stats](https://github-readme-stats.vercel.app/api?username=umutsoysal&show_icons=true)
