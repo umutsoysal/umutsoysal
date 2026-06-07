@@ -7,6 +7,7 @@ Passionate in building smart and scalable production grade applications.
 ## Stack
 
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
+![Go](https://img.shields.io/badge/Go-blue?style=flat&logo=go)
 ![CSharp](https://img.shields.io/badge/CSharp-purple?style=flat&logo=c-sharp)
 ![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter)
 ![FastAPI](https://img.shields.io/badge/FastAPI-green?style=flat&logo=fastapi)
@@ -15,4 +16,3 @@ Passionate in building smart and scalable production grade applications.
 
 
 <img width="1556" alt="image" src="https://github.com/umutsoysal/umutsoysal/assets/10604284/fc9c5088-d8f5-48a2-8b89-b942349f75f2">
-
