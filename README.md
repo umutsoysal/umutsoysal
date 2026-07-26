@@ -5,7 +5,7 @@
 Software engineer with an M.S. in Engineering from Carnegie Mellon University. I build practical, production-focused software across backend systems, simulation, computer vision, and cross-platform applications.
 
 - Based in Chicago, IL
-- Building with Python, Flutter, FastAPI, AWS, Docker, and C#
+- Building with Python, Go, Flutter, FastAPI, AWS, Docker, and C#
 - Currently building agentic tools across sailing, mobile systems, and intelligent applications
 - Interested in scalable applications, applied AI, and intelligent systems
 - Open to thoughtful engineering collaborations and practical product work
