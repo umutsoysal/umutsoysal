@@ -23,7 +23,7 @@ Software engineer with an M.S. in Engineering from Carnegie Mellon University. I
 ## Featured Projects
 
 - [SailRaceComputer](https://github.com/umutsoysal/SailRaceComputer) - Sailing race computer project focused on real-time race support, navigation, and on-water decision making.
-- [FleetFlow](https://github.com/umutsoysal/FleetFlow) - Fleet and operations management project focused on coordination, tracking, and workflow visibility.
+- [FleetFlow](https://github.com/umutsoysal/FleetFlow) - Real time fleet tracker for off-shore races for competitive advantage.
 - [Android Emulator](https://github.com/umutsoysal/AndroidEmulator) - Systems-focused emulator work exploring Android runtime behavior, platform internals, and performance.
 
 
