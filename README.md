@@ -17,14 +17,9 @@ Software engineer with an M.S. in Engineering from Carnegie Mellon University. I
 
 ## Featured Projects
 
-### [Autopilot](https://github.com/umutsoysal/Autopilot)
-Weather-driven sailing simulator for route planning and boat-state modeling in Python.
-
-### [Computer-Vision-Projects](https://github.com/umutsoysal/Computer-Vision-Projects)
-Computer vision implementations covering tracking, homographies, RANSAC, and scene classification.
-
-### [24780-TheMaze](https://github.com/umutsoysal/24780-TheMaze)
-Carnegie Mellon final project exploring interactive systems development and hands-on engineering work in C and C++.
+- [Autopilot](https://github.com/umutsoysal/Autopilot) - Weather-driven sailing simulator for route planning and boat-state modeling in Python.
+- [Computer-Vision-Projects](https://github.com/umutsoysal/Computer-Vision-Projects) - Computer vision implementations covering tracking, homographies, RANSAC, and scene classification.
+- [24780-TheMaze](https://github.com/umutsoysal/24780-TheMaze) - Carnegie Mellon final project exploring interactive systems development and hands-on engineering work in C and C++.
 
 ## Core Stack
 
