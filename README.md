@@ -6,7 +6,10 @@ Software engineer with an M.S. in Engineering from Carnegie Mellon University. I
 
 - Based in Chicago, IL
 - Building with Python, Flutter, FastAPI, AWS, Docker, and C#
+- Currently building agentic tools across sailing, mobile systems, and intelligent applications
 - Interested in scalable applications, applied AI, and intelligent systems
+- Open to thoughtful engineering collaborations and practical product work
+- Reach me: [us.soysal@gmail.com](mailto:us.soysal@gmail.com)
 
 ## What I Build
 
