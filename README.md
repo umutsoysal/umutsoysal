@@ -25,6 +25,7 @@ Software engineer with an M.S. in Engineering from Carnegie Mellon University. I
 - [SailRaceComputer](https://github.com/umutsoysal/SailRaceComputer) - Sailing race computer project focused on real-time race support, navigation, and on-water decision making.
 - [FleetFlow](https://github.com/umutsoysal/FleetFlow) - Real time fleet tracker for off-shore races for competitive advantage.
 - [Android Emulator](https://github.com/umutsoysal/AndroidEmulator) - Systems-focused emulator work exploring Android runtime behavior, platform internals, and performance.
+- [Guppy](https://github.com/umutsoysal/guppy) - A raspbbery pi friendly server that connects to your boat and make every data available for smart boat implementations.
 
 
 ## Core Stack
