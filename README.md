@@ -1,6 +1,7 @@
 # Hi, I'm Umut Soysal
 
 ![Profile Views](https://komarev.com/ghpvc/?username=umutsoysal&label=Profile%20views&color=0e75b6&style=flat) 
+
 Software engineer with an M.S. in Engineering from Carnegie Mellon University. I build practical, production-focused software across backend systems, simulation, computer vision, and cross-platform applications.
 
 - Based in Chicago, IL
