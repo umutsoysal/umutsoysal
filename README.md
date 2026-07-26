@@ -1,6 +1,7 @@
 # Hi, I'm Umut Soysal
 
 ![Profile Views](https://komarev.com/ghpvc/?username=umutsoysal&label=Profile%20views&color=0e75b6&style=flat)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=flat)](https://github.com/sponsors/umutsoysal)
 
 Software engineer with an M.S. in Engineering from Carnegie Mellon University. I build practical, production-focused software across backend systems, simulation, computer vision, and cross-platform applications.
 
